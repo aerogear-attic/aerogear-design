@@ -71,8 +71,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="417.55242"
-     inkscape:cy="354.9382"
+     inkscape:cx="399.90549"
+     inkscape:cy="342.96361"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -228,29 +228,7 @@
              width="302"
              id="rect3867" /></flowRegion><flowPara
            id="flowPara3869">2</flowPara></flowRoot>    </g>
-    <path
-       sodipodi:type="arc"
-       style="fill:#e25027;fill-opacity:1;stroke:none"
-       id="path3871"
-       sodipodi:cx="184"
-       sodipodi:cy="95"
-       sodipodi:rx="14"
-       sodipodi:ry="14"
-       d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
-       transform="matrix(0.71428571,0,0,0.71428571,368.07143,786.50504)" />
-    <flowRoot
-       transform="matrix(0.37514515,0,0,0.37507197,414.61794,788.69307)"
-       style="font-size:37.33410263px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       id="flowRoot3873"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3875"><rect
-           style="font-size:37.33410263px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-           y="151.36218"
-           x="76"
-           height="151"
-           width="302"
-           id="rect3877" /></flowRegion><flowPara
-         id="flowPara3879">3</flowPara></flowRoot>    <g
+    <g
        id="g4503"
        transform="translate(0,2.875)">
       <path
@@ -446,7 +424,7 @@
            id="rect3962" /></flowRegion><flowPara
          id="flowPara3964"
          style="font-size:26.6589489px;text-align:start;text-anchor:start;fill:#16262c;fill-opacity:1">Queries details for receiving apps...</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.37514515,0,0,0.37507197,197.61967,571.60037)"
+       transform="matrix(0.37514515,0,0,0.37507197,195.61967,571.60037)"
        style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#505050;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot3966"
        xml:space="preserve"><flowRegion
@@ -462,7 +440,7 @@
        xml:space="preserve"
        id="flowRoot3978"
        style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#505050;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.37514515,0,0,0.37507197,218.31816,743.13443)"><flowRegion
+       transform="matrix(0.37514515,0,0,0.37507197,216.31816,743.13443)"><flowRegion
          id="flowRegion3980"><rect
            id="rect3982"
            width="341.95535"
@@ -492,20 +470,46 @@
            y="151.36218"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-0.79976851px;fill:#073e52;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
          id="flowPara3998"
-         style="text-align:end;letter-spacing:-0.79976851px;text-anchor:end;fill:#073e52;fill-opacity:1">JBoss AS backend server</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.37514515,0,0,0.37507197,490.0605,782.81406)"
-       style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#505050;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot4002"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4004"><rect
-           style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#505050;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           y="151.36218"
-           x="76"
-           height="164.21616"
-           width="353.4906"
-           id="rect4006" /></flowRegion><flowPara
-         style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#505050;fill-opacity:1"
-         id="flowPara4440">Event on server occurs and invokes Sender API</flowPara></flowRoot>    <g
+         style="text-align:end;letter-spacing:-0.79976851px;text-anchor:end;fill:#073e52;fill-opacity:1">JBoss AS backend server</flowPara></flowRoot>    <g
+       id="g4517"
+       transform="translate(-0.5,2)">
+      <path
+         transform="matrix(0.71428571,0,0,0.71428571,368.07143,786.50504)"
+         d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
+         sodipodi:ry="14"
+         sodipodi:rx="14"
+         sodipodi:cy="95"
+         sodipodi:cx="184"
+         id="path3871"
+         style="fill:#e25027;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3873"
+         style="font-size:37.33410263px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         transform="matrix(0.37514515,0,0,0.37507197,414.61794,788.69307)"><flowRegion
+           id="flowRegion3875"><rect
+             id="rect3877"
+             width="302"
+             height="151"
+             x="76"
+             y="151.36218"
+             style="font-size:37.33410263px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
+           id="flowPara3879">3</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4002"
+         style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#505050;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="matrix(0.37514515,0,0,0.37507197,488.0605,782.81406)"><flowRegion
+           id="flowRegion4004"><rect
+             id="rect4006"
+             width="353.4906"
+             height="164.21616"
+             x="76"
+             y="151.36218"
+             style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#505050;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+           id="flowPara4440"
+           style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#505050;fill-opacity:1">Event on server occurs and invokes Sender API</flowPara></flowRoot>    </g>
+    <g
        style="overflow:visible"
        id="g4319"
        transform="matrix(0.64360144,0,0,0.64360144,593.83158,976.25255)">
