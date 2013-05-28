@@ -71,8 +71,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="454.44661"
-     inkscape:cy="311.33235"
+     inkscape:cx="378.93434"
+     inkscape:cy="351.81017"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -377,30 +377,17 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3946"
-       style="font-size:26.6589489px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.5;fill:#16262c;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.37514515,0,0,0.37507197,528.07064,603.54149)"><flowRegion
+       style="font-size:26.65894889999999862px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.66000000000000003;fill:#335866;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="matrix(0.37514515,0,0,0.37507197,540.21277,594.3387)"><flowRegion
          id="flowRegion3948"><rect
            id="rect3950"
-           width="319.05054"
-           height="36.642685"
+           width="269.10101"
+           height="103.56928"
            x="76"
            y="151.36218"
-           style="font-size:26.6589489px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#16262c;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         style="font-size:26.6589489px;text-align:start;text-anchor:start;fill:#16262c;fill-opacity:1"
-         id="flowPara3954">Writes Push App details</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.37514515,0,0,0.37507197,533.78723,712.41513)"
-       style="font-size:26.6589489px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.5;fill:#16262c;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot3958"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3960"><rect
-           style="font-size:26.6589489px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#16262c;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           y="151.36218"
-           x="76"
-           height="150.10448"
-           width="242.99001"
-           id="rect3962" /></flowRegion><flowPara
-         id="flowPara3964"
-         style="font-size:26.6589489px;text-align:start;text-anchor:start;fill:#16262c;fill-opacity:1">Queries details for receiving apps...</flowPara></flowRoot>    <flowRoot
+           style="font-size:26.65894889999999862px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#335866;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+         style="font-size:26.65894889999999862px;text-align:start;text-anchor:start;fill:#335866;fill-opacity:1"
+         id="flowPara3954">writes Push Application details...</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.37514515,0,0,0.37507197,219.61967,571.60037)"
        style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot3966"
@@ -460,7 +447,7 @@
            style="font-size:31.99073982000000171px;text-align:start;text-anchor:start;color:#000000;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">(via PushNetworks)</flowPara></flowRoot>    </g>
     <path
        style="fill:#87b3c3;fill-opacity:1;stroke:none"
-       d="m 546.94401,682.21413 119.90792,0 0,-7.99407 16.82488,12.57832 -16.82488,12.30162 0,-7.52361 -120.33934,-10e-6"
+       d="m 546.94401,687.21413 119.90792,0 0,-7.99407 16.82488,12.57832 -16.82488,12.30162 0,-7.52361 -120.33934,-10e-6"
        id="path3986"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -678,13 +665,13 @@
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:none;stroke:#d6e4ea;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 668.52954,674.13804 16.97056,12.71145 -17.4125,12.66726"
+       d="m 668.52954,679.13804 16.97056,12.71145 -17.4125,12.66726"
        id="path4462"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#d6e4ea;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 558.22088,734.86084 -16.97056,12.71145 17.4125,12.66726"
+       d="m 669.09884,738.36084 16.97056,12.71145 -17.4125,12.66726"
        id="path4466"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -722,19 +709,32 @@
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path4593"
-       d="m 678.0694,742.98112 -118.35586,0 0,-7.99407 -16.82488,12.57832 16.82488,12.30162 0,-7.52361 118.35586,-10e-6"
+       d="m 549.25032,746.48112 118.35586,0 0,-7.99407 16.82488,12.57832 -16.82488,12.30162 0,-7.52361 -118.35586,-10e-6"
        style="fill:#87b3c3;fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4595"
-       d="m 677.03014,766.99872 0,-30.69123"
+       d="m 550.28958,761.99872 0,-30.69123"
        style="fill:#d6e4ea;fill-opacity:1;stroke:#d6e4ea;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        style="fill:#d6e4ea;fill-opacity:1;stroke:#d6e4ea;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 550.21605,701.30213 0,-30.69123"
+       d="m 550.21605,706.30213 0,-30.69123"
        id="path4597"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-  </g>
+    <flowRoot
+       transform="matrix(0.37514515,0,0,0.37507197,539.60236,708.30117)"
+       style="font-size:26.65894889999999862px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.66000000000000003;fill:#335866;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot3958"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3960"><rect
+           style="font-size:26.65894889999999862px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#335866;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="151.36218"
+           x="76"
+           height="150.10448"
+           width="242.99001"
+           id="rect3962" /></flowRegion><flowPara
+         id="flowPara3964"
+         style="font-size:26.65894889999999862px;text-align:start;text-anchor:start;fill:#335866;fill-opacity:1">queries details for receiving apps...</flowPara></flowRoot>  </g>
 </svg>
