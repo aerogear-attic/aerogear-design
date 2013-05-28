@@ -71,16 +71,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="405.60643"
-     inkscape:cy="280.23371"
+     inkscape:cx="479.80348"
+     inkscape:cy="304.47035"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1131"
      inkscape:window-height="876"
-     inkscape:window-x="726"
-     inkscape:window-y="49"
+     inkscape:window-x="708"
+     inkscape:window-y="84"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -153,7 +153,8 @@
            width="203.98579"
            id="rect3771" /></flowRegion><flowPara
          id="flowPara3773">AeroGear</flowPara><flowPara
-         id="flowPara3791">iOS</flowPara></flowRoot>    <flowRoot
+         id="flowPara3791"
+         style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">iOS</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3775"
        style="font-size:31.99073982000000171px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7a7a7a;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -166,7 +167,8 @@
            y="151.36218"
            style="font-size:31.99073982000000171px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#7a7a7a;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara3781">AeroGear</flowPara><flowPara
-         id="flowPara3793">Android</flowPara></flowRoot>    <flowRoot
+         id="flowPara3793"
+         style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">Android</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.37514515,0,0,0.37507197,455.48029,537.99018)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:-0.79976851px;word-spacing:0px;text-anchor:end;fill:#073e52;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot3783"
