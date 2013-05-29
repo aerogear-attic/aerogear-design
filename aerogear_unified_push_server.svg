@@ -73,9 +73,9 @@
      borderopacity="0.17254902"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="342.90383"
-     inkscape:cy="249.76623"
+     inkscape:zoom="1"
+     inkscape:cx="481.03997"
+     inkscape:cy="350.76555"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -330,7 +330,7 @@
              style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1"
              id="flowPara3148"> </flowPara><flowPara
              id="flowPara3150"
-             style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1">Adds iOS, Android and/or (Hybrid) Web variants for Push Application</flowPara></flowRoot>      </g>
+             style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1">Adds iOS, Android and/or (Hybrid) Web variants for the Push Application</flowPara></flowRoot>      </g>
       <rect
          y="754.20941"
          x="58.138824"
