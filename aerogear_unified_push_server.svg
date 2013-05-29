@@ -73,17 +73,17 @@
      borderopacity="0.17254902"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="364.06829"
-     inkscape:cy="261.53564"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="342.90383"
+     inkscape:cy="249.76623"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1131"
-     inkscape:window-height="724"
-     inkscape:window-x="92"
-     inkscape:window-y="184"
+     inkscape:window-width="1298"
+     inkscape:window-height="839"
+     inkscape:window-x="87"
+     inkscape:window-y="131"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -101,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,6 +122,12 @@
          width="375.40866"
          id="rect2993"
          style="fill:#d6e4ea;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#87b3c3;fill-opacity:1;stroke:none"
+         d="m 437.08644,811.52817 -53.90792,10e-6 0,-16.49413 -29.82488,28.33197 29.82488,27.41803 0,-14.94028 54.33934,-10e-6"
+         id="path3154"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
       <path
          inkscape:connector-curvature="0"
          id="path4419"
@@ -216,7 +222,7 @@
          id="g4510">
         <path
            transform="matrix(0.71428571,0,0,0.71428571,75.82417,573.92788)"
-           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
+           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
            sodipodi:ry="14"
            sodipodi:rx="14"
            sodipodi:cy="95"
@@ -244,7 +250,7 @@
            xml:space="preserve"
            id="flowRoot2985"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.79976201px;word-spacing:0px;text-anchor:start;fill:#073e52;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-           transform="matrix(0.37514818,0,0,0.375075,377.39005,470.89432)"><flowRegion
+           transform="matrix(0.37514818,0,0,0.375075,377.39005,466.89432)"><flowRegion
              id="flowRegion2987"><rect
                id="rect2989"
                width="302"
@@ -260,10 +266,10 @@
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
-           transform="matrix(0.71428571,0,0,0.71428571,257.65023,469.17304)" />
+           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           transform="matrix(0.71428571,0,0,0.71428571,257.65023,465.17304)" />
         <flowRoot
-           transform="matrix(0.37514515,0,0,0.37507197,303.56883,471.4199)"
+           transform="matrix(0.37514515,0,0,0.37507197,303.56883,467.4199)"
            style="font-size:37.33410263px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            id="flowRoot3853"
            xml:space="preserve"><flowRegion
@@ -278,7 +284,7 @@
            xml:space="preserve"
            id="flowRoot3891"
            style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7a7a7a;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           transform="matrix(0.37514515,0,0,0.37507197,371.91405,496.98515)"><flowRegion
+           transform="matrix(0.37514515,0,0,0.37507197,372.49984,492.98515)"><flowRegion
              id="flowRegion3893"><rect
                id="rect3895"
                width="706.81049"
@@ -289,39 +295,42 @@
              id="flowPara3897"
              style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1">Registers Push Application</flowPara><flowPara
              style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1"
-             id="flowPara3899">Adds iOS variant for Push Application</flowPara><flowPara
-             style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1"
-             id="flowPara3901">Adds Android variant for Push Application</flowPara></flowRoot>        <path
-           transform="matrix(0.20920944,0,0,0.20920944,350.58426,542.3308)"
-           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
+             id="flowPara3901" /></flowRoot>        <path
+           transform="matrix(0.20920944,0,0,0.20920944,351.17005,538.3308)"
+           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
            sodipodi:ry="14"
            sodipodi:rx="14"
            sodipodi:cy="95"
            sodipodi:cx="184"
            id="path3903"
-           style="fill:#5390a6;fill-opacity:1;stroke:none"
+           style="fill:#9dc1ce;fill-opacity:1;stroke:none"
            sodipodi:type="arc" />
         <path
            sodipodi:type="arc"
-           style="fill:#5390a6;fill-opacity:1;stroke:none"
+           style="fill:#9dc1ce;fill-opacity:1;stroke:none"
            id="path3905"
            sodipodi:cx="184"
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
-           transform="matrix(0.20920944,0,0,0.20920944,350.58426,557.3256)" />
-        <path
-           transform="matrix(0.20920944,0,0,0.20920944,350.58426,572.43283)"
-           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
-           sodipodi:ry="14"
-           sodipodi:rx="14"
-           sodipodi:cy="95"
-           sodipodi:cx="184"
-           id="path3907"
-           style="fill:#5390a6;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
+           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           transform="matrix(0.20920944,0,0,0.20920944,351.17005,558.3256)" />
+        <flowRoot
+           transform="matrix(0.37514515,0,0,0.37507197,373.56943,497.98515)"
+           style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7a7a7a;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           id="flowRoot3142"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3144"><rect
+               style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#7a7a7a;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="151.36218"
+               x="76"
+               height="307.40762"
+               width="706.81049"
+               id="rect3146" /></flowRegion><flowPara
+             style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1"
+             id="flowPara3148"> </flowPara><flowPara
+             id="flowPara3150"
+             style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1">Adds iOS, Android and/or (Hybrid) Web variants for Push Application</flowPara></flowRoot>      </g>
       <rect
          y="754.20941"
          x="58.138824"
@@ -333,7 +342,7 @@
          ry="0" />
       <path
          transform="matrix(0.27400837,0,0,0.27400837,28.182189,791.13285)"
-         d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
+         d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
          sodipodi:ry="14"
          sodipodi:rx="14"
          sodipodi:cy="95"
@@ -358,11 +367,11 @@
          sodipodi:cy="95"
          sodipodi:rx="14"
          sodipodi:ry="14"
-         d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
+         d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
          transform="matrix(0.17374906,0,0,0.17374906,106.19071,802.29757)" />
       <path
          transform="matrix(0.17374906,0,0,0.17374906,116.64523,802.29757)"
-         d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
+         d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
          sodipodi:ry="14"
          sodipodi:rx="14"
          sodipodi:cy="95"
@@ -378,7 +387,7 @@
          sodipodi:cy="95"
          sodipodi:rx="14"
          sodipodi:ry="14"
-         d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
+         d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
          transform="matrix(0.17374906,0,0,0.17374906,127.09973,802.29757)" />
       <flowRoot
          transform="matrix(0.37514515,0,0,0.37507197,536.21277,656.3387)"
@@ -420,7 +429,7 @@
              sodipodi:cy="95"
              sodipodi:rx="14"
              sodipodi:ry="14"
-             d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
+             d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
              transform="matrix(0.71428571,0,0,0.71428571,96.12569,744.22078)" />
           <flowRoot
              transform="matrix(0.37514515,0,0,0.37507197,141.92455,746.31675)"
@@ -448,9 +457,7 @@
                y="151.36218"
                style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
              style="font-size:31.99073982px;text-align:start;text-anchor:start;color:#000000;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             id="flowPara3984">Deliver message</flowPara><flowPara
-             style="font-size:31.99073982px;text-align:start;text-anchor:start;color:#000000;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             id="flowPara4429">(via PushNetworks)</flowPara></flowRoot>      </g>
+             id="flowPara4429">Deliver message via Push Networks ()</flowPara></flowRoot>      </g>
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
@@ -481,7 +488,7 @@
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
+           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
            transform="matrix(0.71428571,0,0,0.71428571,368.07143,786.50504)" />
         <flowRoot
            transform="matrix(0.37514515,0,0,0.37507197,414.61794,788.69307)"
@@ -600,7 +607,7 @@
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path3976"
-         d="m 444.58644,811.52817 -209.90792,10e-6 0,-16.49413 -29.82488,28.33197 29.82488,27.41803 0,-14.94028 210.33934,-10e-6"
+         d="m 294.58644,811.52817 -59.90792,10e-6 0,-16.49413 -29.82488,28.33197 29.82488,27.41803 0,-14.94028 60.33934,-10e-6"
          style="fill:#87b3c3;fill-opacity:1;stroke:none" />
       <path
          sodipodi:nodetypes="ccccc"
