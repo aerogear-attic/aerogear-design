@@ -81,9 +81,9 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1131"
-     inkscape:window-height="876"
-     inkscape:window-x="718"
-     inkscape:window-y="80"
+     inkscape:window-height="724"
+     inkscape:window-x="224"
+     inkscape:window-y="0"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -101,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -210,7 +210,7 @@
            style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
          id="flowPara3849">Storage</flowPara></flowRoot>    <g
        id="g4510"
-       transform="translate(23,1.875)">
+       transform="translate(23,-6.125)">
       <path
          sodipodi:type="arc"
          style="fill:#e25027;fill-opacity:1;stroke:none"
@@ -249,7 +249,7 @@
              height="151"
              width="302"
              id="rect2989" /></flowRegion><flowPara
-           id="flowPara2991">Administrator</flowPara></flowRoot>      <path
+           id="flowPara2991">Developer</flowPara></flowRoot>      <path
          transform="matrix(0.71428571,0,0,0.71428571,257.65023,469.17304)"
          d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
          sodipodi:ry="14"
@@ -336,7 +336,7 @@
        sodipodi:cy="95"
        sodipodi:rx="14"
        sodipodi:ry="14"
-       d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+       d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
        transform="matrix(0.27400837,0,0,0.27400837,28.182189,729.13285)" />
     <rect
        y="688.71686"
@@ -349,7 +349,7 @@
        ry="0" />
     <path
        transform="matrix(0.17374906,0,0,0.17374906,106.19071,740.29757)"
-       d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+       d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
        sodipodi:ry="14"
        sodipodi:rx="14"
        sodipodi:cy="95"
@@ -365,11 +365,11 @@
        sodipodi:cy="95"
        sodipodi:rx="14"
        sodipodi:ry="14"
-       d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+       d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
        transform="matrix(0.17374906,0,0,0.17374906,116.64523,740.29757)" />
     <path
        transform="matrix(0.17374906,0,0,0.17374906,127.09973,740.29757)"
-       d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+       d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
        sodipodi:ry="14"
        sodipodi:rx="14"
        sodipodi:cy="95"
@@ -391,7 +391,7 @@
            style="font-size:26.65894889999999862px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#335866;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          style="font-size:26.65894889999999862px;text-align:start;text-anchor:start;fill:#335866;fill-opacity:1"
          id="flowPara3954">writes Push Application details...</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.37514515,0,0,0.37507197,219.61967,571.60037)"
+       transform="matrix(0.37514515,0,0,0.37507197,219.61967,563.60037)"
        style="font-size:31.99073982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot3966"
        xml:space="preserve"><flowRegion
