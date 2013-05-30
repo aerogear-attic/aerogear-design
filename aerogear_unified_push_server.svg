@@ -82,8 +82,8 @@
      inkscape:showpageshadow="false"
      inkscape:window-width="1298"
      inkscape:window-height="839"
-     inkscape:window-x="451"
-     inkscape:window-y="171"
+     inkscape:window-x="139"
+     inkscape:window-y="137"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -101,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -232,7 +232,7 @@
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            transform="matrix(0.71428571,0,0,0.71428571,321.52558,490.11993)" />
         <flowRoot
            transform="matrix(0.37514515,0,0,0.37507197,367.44418,492.36679)"
@@ -263,7 +263,7 @@
              style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1"
              id="flowPara3901" /></flowRoot>        <path
            transform="matrix(0.20920944,0,0,0.20920944,421.0454,565.27769)"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            sodipodi:ry="14"
            sodipodi:rx="14"
            sodipodi:cy="95"
@@ -279,7 +279,7 @@
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            transform="matrix(0.20920944,0,0,0.20920944,421.0454,585.27249)" />
         <flowRoot
            transform="matrix(0.37514515,0,0,0.37507197,442.44478,524.93204)"
@@ -319,11 +319,11 @@
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            transform="matrix(0.20920944,0,0,0.20920944,207.82291,900.80633)" />
         <path
            transform="matrix(0.20920944,0,0,0.20920944,207.82291,920.80113)"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            sodipodi:ry="14"
            sodipodi:rx="14"
            sodipodi:cy="95"
@@ -354,7 +354,7 @@
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            transform="matrix(0.20920944,0,0,0.20920944,207.82291,939.80113)" />
         <flowRoot
            transform="matrix(0.37514515,0,0,0.37507197,230.22229,880.46068)"
@@ -371,7 +371,7 @@
              style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1"
              id="flowPara3200"> </flowPara><flowPara
              id="flowPara3202"
-             style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1">Mozilla’s Simple Push</flowPara></flowRoot>        <rect
+             style="font-size:31.99073982px;text-align:start;text-anchor:start;fill:#7a7a7a;fill-opacity:1">Mozilla SimplePush</flowPara></flowRoot>        <rect
            ry="0"
            rx="0"
            style="fill:#eb8467;fill-opacity:1;stroke:none"
@@ -388,7 +388,7 @@
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            transform="matrix(0.27400837,0,0,0.27400837,22.773908,789.07974)" />
         <rect
            y="748.66376"
@@ -401,7 +401,7 @@
            ry="0" />
         <path
            transform="matrix(0.17374906,0,0,0.17374906,100.78243,800.24446)"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            sodipodi:ry="14"
            sodipodi:rx="14"
            sodipodi:cy="95"
@@ -417,11 +417,11 @@
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            transform="matrix(0.17374906,0,0,0.17374906,111.23695,800.24446)" />
         <path
            transform="matrix(0.17374906,0,0,0.17374906,121.69145,800.24446)"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            sodipodi:ry="14"
            sodipodi:rx="14"
            sodipodi:cy="95"
@@ -444,7 +444,7 @@
              style="font-size:26.6589489px;text-align:start;text-anchor:start;fill:#335866;fill-opacity:1"
              id="flowPara3954">write Push Application details...</flowPara></flowRoot>        <path
            transform="matrix(0.71428571,0,0,0.71428571,107.55802,622.02736)"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            sodipodi:ry="14"
            sodipodi:rx="14"
            sodipodi:cy="95"
@@ -479,7 +479,7 @@
              style="font-size:31.99073982px;text-align:start;text-anchor:start;color:#000000;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              id="flowPara4509">Mobile Variant Instances on the devices register themselves using a token</flowPara></flowRoot>        <path
            transform="matrix(0.71428571,0,0,0.71428571,107.71741,822.04267)"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            sodipodi:ry="14"
            sodipodi:rx="14"
            sodipodi:cy="95"
@@ -539,7 +539,7 @@
            sodipodi:cy="95"
            sodipodi:rx="14"
            sodipodi:ry="14"
-           d="m 198,95 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+           d="m 198,95 c 0,7.73199 -6.26801,14 -14,14 -7.73199,0 -14,-6.26801 -14,-14 0,-7.731986 6.26801,-14 14,-14 7.73199,0 14,6.268014 14,14 z"
            transform="matrix(0.71428571,0,0,0.71428571,412.16315,848.45193)" />
         <flowRoot
            transform="matrix(0.37514515,0,0,0.37507197,458.70966,850.63996)"
