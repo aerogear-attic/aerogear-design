@@ -176,15 +176,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-57.512688"
-     inkscape:cy="361.7035"
+     inkscape:cx="-331.88646"
+     inkscape:cy="372.02117"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1447"
      inkscape:window-height="963"
-     inkscape:window-x="40"
-     inkscape:window-y="32"
+     inkscape:window-x="39"
+     inkscape:window-y="46"
      inkscape:window-maximized="0"
      showborder="false"
      inkscape:showpageshadow="false" />
@@ -196,7 +196,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -442,14 +442,14 @@
            width="605.27332"
            id="rect3921" /></flowRegion><flowPara
          id="flowPara3923">Mobile app for the sales team</flowPara></flowRoot>    <rect
-       y="73.538803"
+       y="22.627115"
        x="-156.82755"
-       height="600"
+       height="650.91168"
        width="800"
        id="rect3925"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="matrix(0.39255484,0,0,0.39255484,-112.15737,46.304351)"
+       transform="matrix(0.39255484,0,0,0.39255484,-112.15737,-2.695649)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot3927"
        xml:space="preserve"><flowRegion
@@ -461,7 +461,7 @@
            width="605.27332"
            id="rect3931" /></flowRegion><flowPara
          id="flowPara3933">AeroGear Unified Push Server</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,-114.06311,96.67754)"
+       transform="matrix(0.33380592,0,0,0.33380592,-114.06311,47.67754)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot3955"
        xml:space="preserve"><flowRegion
@@ -473,7 +473,7 @@
            width="605.27332"
            id="rect3959" /></flowRegion><flowPara
          id="flowPara3961">Application Management</flowPara></flowRoot>    <rect
-       y="114.72867"
+       y="65.728668"
        x="-154.70624"
        height="45.395908"
        width="208.9973"
@@ -481,7 +481,7 @@
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        transform="scale(1,-1)"
-       y="-160.60988"
+       y="-111.60988"
        x="-155.41333"
        height="45.886444"
        width="800"
@@ -489,23 +489,9 @@
        style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot3999"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.35376138,0,0,0.35376138,86.82304,148.77945)"><flowRegion
-         id="flowRegion4001"><rect
-           id="rect4003"
-           width="605.27332"
-           height="57"
-           x="-48"
-           y="96.362183"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         id="flowPara4005">»  <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Open Sans Bold"
-   id="flowSpan7599"> &quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot4007"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,539.1869,54.67754)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,539.1869,5.67754)"><flowRegion
          id="flowRegion4009"><rect
            id="rect4011"
            width="605.27332"
@@ -516,7 +502,7 @@
          id="flowPara4013">Developer</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path4015"
-       d="m 618,91.612182 -8.75,8.749998 -8.875,-8.874998"
+       d="m 618,42.612182 -8.75,8.749998 -8.875,-8.874998"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        d="m 580.97658,91.138901 a 5.9220195,5.9220195 0 1 1 -11.84403,0 5.9220195,5.9220195 0 1 1 11.84403,0 z"
@@ -527,12 +513,12 @@
        id="path4017"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc"
-       transform="translate(-70,0)" />
+       transform="translate(-70,-49)" />
     <path
        sodipodi:open="true"
        sodipodi:end="6.1013096"
        sodipodi:start="3.3364566"
-       transform="matrix(1.4925373,0,0,1.4925373,-353.23582,-30.128454)"
+       transform="matrix(1.4925373,0,0,1.4925373,-353.23582,-79.128454)"
        sodipodi:type="arc"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:0.67000002;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path4019"
@@ -877,7 +863,7 @@
            x="-48"
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         id="flowPara4707">(Hybrid) Web</flowPara></flowRoot>    <rect
+         id="flowPara4707">Web</flowPara></flowRoot>    <rect
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4709"
        width="12.5"
@@ -938,7 +924,7 @@
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4841"
        width="800"
-       height="600"
+       height="678"
        x="-155.41333"
        y="699.53882" />
     <flowRoot
@@ -959,9 +945,9 @@
        width="735.88818"
        height="359.48276"
        x="-127.41333"
-       y="913.74945" />
+       y="983.74945" />
     <rect
-       y="913.74945"
+       y="983.74945"
        x="-127.41333"
        height="35.617111"
        width="735.88818"
@@ -990,7 +976,7 @@
        xml:space="preserve"
        id="flowRoot4865"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,967.22348)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1037.2235)"><flowRegion
          id="flowRegion4867"><rect
            id="rect4869"
            width="605.27332"
@@ -999,7 +985,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara4871">mw@redhat.com</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,994.22348)"
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1064.2235)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot4873"
        xml:space="preserve"><flowRegion
@@ -1062,7 +1048,7 @@
        xml:space="preserve"
        id="flowRoot4905"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1020.2235)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1090.2235)"><flowRegion
          id="flowRegion4907"><rect
            id="rect4909"
            width="605.27332"
@@ -1071,7 +1057,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara4911">crobson@redhat.com</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,924.81968)"
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,994.81968)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot4921"
        xml:space="preserve"><flowRegion
@@ -1088,16 +1074,16 @@
        width="735.88818"
        height="31.617111"
        x="-127.41333"
-       y="949.74945" />
+       y="1019.7495" />
     <rect
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4931"
        width="12.5"
        height="12.5"
        x="-111.35876"
-       y="1001.364" />
+       y="1071.364" />
     <rect
-       y="1028.7643"
+       y="1098.7643"
        x="-111.35876"
        height="12.5"
        width="12.5"
@@ -1105,7 +1091,7 @@
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -109,1005.9069 4.25,5.75 3.25,-15.25004"
+       d="m -109,1075.9069 4.25,5.75 3.25,-15.25"
        id="path4935"
        inkscape:connector-curvature="0" />
     <rect
@@ -1114,12 +1100,12 @@
        width="12.5"
        height="12.5"
        x="-111.35876"
-       y="1054.9272" />
+       y="1124.9272" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4971"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,121.1501,924.81968)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,121.1501,994.81968)"><flowRegion
          id="flowRegion4973"><rect
            id="rect4975"
            width="605.27332"
@@ -1135,12 +1121,12 @@
        width="85.157028"
        height="27.440062"
        x="515.97083"
-       y="917.83759" />
+       y="987.83759" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4991"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,548.17571,890.82935)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,548.17571,960.82935)"><flowRegion
          id="flowRegion4993"><rect
            id="rect4995"
            width="605.27332"
@@ -1149,7 +1135,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara4997">Remove</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,967.22348)"
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1037.2235)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot4999"
        xml:space="preserve"><flowRegion
@@ -1164,7 +1150,7 @@
        xml:space="preserve"
        id="flowRoot5007"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,994.22348)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1064.2235)"><flowRegion
          id="flowRegion5009"><rect
            id="rect5011"
            width="605.27332"
@@ -1173,7 +1159,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara5013">iPhone 5</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1020.2235)"
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1090.2235)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot5015"
        xml:space="preserve"><flowRegion
@@ -1188,7 +1174,7 @@
        xml:space="preserve"
        id="flowRoot5071"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,252.59227,924.81968)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,252.59227,994.81968)"><flowRegion
          id="flowRegion5073"><rect
            id="rect5075"
            width="605.27332"
@@ -1200,7 +1186,7 @@
        xml:space="preserve"
        id="flowRoot5087"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,967.22348)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1037.2235)"><flowRegion
          id="flowRegion5089"><rect
            id="rect5091"
            width="605.27332"
@@ -1209,7 +1195,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara5093">iOS 6.1</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,994.22348)"
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1064.2235)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot5095"
        xml:space="preserve"><flowRegion
@@ -1224,7 +1210,7 @@
        xml:space="preserve"
        id="flowRoot5103"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1020.2235)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1090.2235)"><flowRegion
          id="flowRegion5105"><rect
            id="rect5107"
            width="605.27332"
@@ -1233,7 +1219,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara5109">iOS 6.1</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1046.558)"
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1116.558)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot5111"
        xml:space="preserve"><flowRegion
@@ -1245,14 +1231,14 @@
            width="605.27332"
            id="rect5115" /></flowRegion><flowPara
          id="flowPara5117">mcarrano@redhat.com</flowPara></flowRoot>    <rect
-       y="1082.0902"
+       y="1152.0902"
        x="-111.35876"
        height="12.5"
        width="12.5"
        id="rect5119"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1045.1438)"
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1115.1438)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot5121"
        xml:space="preserve"><flowRegion
@@ -1264,7 +1250,7 @@
            width="605.27332"
            id="rect5125" /></flowRegion><flowPara
          id="flowPara5127">iOS 6.1</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1047.2235)"
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1117.2235)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot5129"
        xml:space="preserve"><flowRegion
@@ -1276,7 +1262,7 @@
            width="605.27332"
            id="rect5133" /></flowRegion><flowPara
          id="flowPara5135">iPhone 5</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,408.64104,924.81968)"
+       transform="matrix(0.33380592,0,0,0.33380592,408.64104,994.81968)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot5137"
        xml:space="preserve"><flowRegion
@@ -1288,7 +1274,7 @@
            width="605.27332"
            id="rect5141" /></flowRegion><flowPara
          id="flowPara5143">Token</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,967.22348)"
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1037.2235)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot5145"
        xml:space="preserve"><flowRegion
@@ -1303,7 +1289,7 @@
        xml:space="preserve"
        id="flowRoot5153"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,994.22348)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1064.2235)"><flowRegion
          id="flowRegion5155"><rect
            id="rect5157"
            width="605.27332"
@@ -1312,7 +1298,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara5159">97992b44cd6a7e15ecd4285ce136c42b2222b0e4</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1020.2235)"
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1090.2235)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot5161"
        xml:space="preserve"><flowRegion
@@ -1327,7 +1313,7 @@
        xml:space="preserve"
        id="flowRoot5169"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1045.1438)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1115.1438)"><flowRegion
          id="flowRegion5171"><rect
            id="rect5173"
            width="605.27332"
@@ -1405,7 +1391,7 @@
            id="rect5215" /></flowRegion><flowPara
          id="flowPara5217"><flowSpan
    style="font-style:italic;-inkscape-font-specification:Open Sans Italic"
-   id="flowSpan5235">Mozilla SimplePush</flowSpan> URL:</flowPara></flowRoot>    <rect
+   id="flowSpan5235">SimplePush</flowSpan> URL:</flowPara></flowRoot>    <rect
        y="1137.3975"
        x="-637.58276"
        height="22.768492"
@@ -1433,7 +1419,7 @@
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -669.35996,1197.6083 13.24639,0"
+       d="m -714.39115,1197.6083 58.27751,0"
        id="path5229"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1913,7 +1899,7 @@
        id="path7437"
        inkscape:connector-curvature="0" />
     <flowRoot
-       transform="matrix(0.35376138,0,0,0.35376138,-108.17696,148.77945)"
+       transform="matrix(0.35376138,0,0,0.35376138,-107.17696,95.77945)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7439"
        xml:space="preserve"><flowRegion
@@ -1926,7 +1912,7 @@
            id="rect7443" /></flowRegion><flowPara
          id="flowPara7445">« Back to Push Applications</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 55.197899,199.4909 -179.333819,0"
+       d="m 56.197899,146.4909 -179.333819,0"
        id="path4313-3"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -1965,7 +1951,7 @@
            height="57"
            width="605.27332"
            id="rect7485" /></flowRegion><flowPara
-         id="flowPara7487">(Hybrid) Web</flowPara></flowRoot>    <rect
+         id="flowPara7487">Web</flowPara></flowRoot>    <rect
        y="343.54684"
        x="-102.77417"
        height="12.5"
@@ -2061,7 +2047,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7543"><flowSpan
    id="flowSpan7545"
-   style="font-style:italic;-inkscape-font-specification:Open Sans Italic">Mozilla SimplePush</flowSpan> URL:</flowPara></flowRoot>    <rect
+   style="font-style:italic;-inkscape-font-specification:Open Sans Italic">SimplePush</flowSpan> URL:</flowPara></flowRoot>    <rect
        style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7547"
        width="319.49478"
@@ -2091,7 +2077,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path7555"
-       d="m 10.640691,503.83875 12.245729,0"
+       d="m -38.193597,503.83875 61.080017,0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2170,7 +2156,7 @@
            width="605.27332"
            id="rect7595" /></flowRegion><flowPara
          id="flowPara7597">Save Changes</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1071.7037)"
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1141.7037)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7641"
        xml:space="preserve"><flowRegion
@@ -2185,7 +2171,7 @@
        xml:space="preserve"
        id="flowRoot7649"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1098.7037)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1168.7037)"><flowRegion
          id="flowRegion7651"><rect
            id="rect7653"
            width="605.27332"
@@ -2194,7 +2180,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7655">bruno@redhat.com</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1124.7037)"
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1194.7037)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7657"
        xml:space="preserve"><flowRegion
@@ -2206,7 +2192,7 @@
            width="605.27332"
            id="rect7661" /></flowRegion><flowPara
          id="flowPara7663">crobson@redhat.com</flowPara></flowRoot>    <rect
-       y="1105.8442"
+       y="1175.8442"
        x="-111.35876"
        height="12.5"
        width="12.5"
@@ -2218,9 +2204,9 @@
        width="12.5"
        height="12.5"
        x="-111.35876"
-       y="1133.2445" />
+       y="1203.2445" />
     <rect
-       y="1159.4075"
+       y="1229.4075"
        x="-111.35876"
        height="12.5"
        width="12.5"
@@ -2230,7 +2216,7 @@
        xml:space="preserve"
        id="flowRoot7673"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1071.7037)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1141.7037)"><flowRegion
          id="flowRegion7675"><rect
            id="rect7677"
            width="605.27332"
@@ -2239,7 +2225,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7679">iPhone 4 S</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1098.7037)"
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1168.7037)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7681"
        xml:space="preserve"><flowRegion
@@ -2254,7 +2240,7 @@
        xml:space="preserve"
        id="flowRoot7689"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1124.7037)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1194.7037)"><flowRegion
          id="flowRegion7691"><rect
            id="rect7693"
            width="605.27332"
@@ -2263,7 +2249,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7695">iPhone 4</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1071.7037)"
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1141.7037)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7697"
        xml:space="preserve"><flowRegion
@@ -2278,7 +2264,7 @@
        xml:space="preserve"
        id="flowRoot7705"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1098.7037)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1168.7037)"><flowRegion
          id="flowRegion7707"><rect
            id="rect7709"
            width="605.27332"
@@ -2287,7 +2273,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7711">iOS 5.1</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1124.7037)"
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1194.7037)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7713"
        xml:space="preserve"><flowRegion
@@ -2302,7 +2288,7 @@
        xml:space="preserve"
        id="flowRoot7721"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1151.0382)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1221.0382)"><flowRegion
          id="flowRegion7723"><rect
            id="rect7725"
            width="605.27332"
@@ -2316,12 +2302,12 @@
        width="12.5"
        height="12.5"
        x="-111.35876"
-       y="1186.5704" />
+       y="1256.5704" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7731"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1149.624)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1219.624)"><flowRegion
          id="flowRegion7733"><rect
            id="rect7735"
            width="605.27332"
@@ -2333,7 +2319,7 @@
        xml:space="preserve"
        id="flowRoot7739"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1151.7037)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1221.7037)"><flowRegion
          id="flowRegion7741"><rect
            id="rect7743"
            width="605.27332"
@@ -2345,7 +2331,7 @@
        xml:space="preserve"
        id="flowRoot7747"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1071.7037)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1141.7037)"><flowRegion
          id="flowRegion7749"><rect
            id="rect7751"
            width="605.27332"
@@ -2354,7 +2340,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7753">888d63f1809f8eb246ec524a52c189aff655ae93</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1098.7037)"
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1168.7037)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7755"
        xml:space="preserve"><flowRegion
@@ -2369,7 +2355,7 @@
        xml:space="preserve"
        id="flowRoot7763"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1124.7037)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1194.7037)"><flowRegion
          id="flowRegion7765"><rect
            id="rect7767"
            width="605.27332"
@@ -2378,7 +2364,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7769">ac7450f198e3bb7bea6424bc439b03cdf5595c99</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1149.624)"
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1219.624)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7771"
        xml:space="preserve"><flowRegion
@@ -2393,7 +2379,7 @@
        xml:space="preserve"
        id="flowRoot7779"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1179.1839)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1249.1839)"><flowRegion
          id="flowRegion7781"><rect
            id="rect7783"
            width="605.27332"
@@ -2402,7 +2388,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7785">mw@redhat.com</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1206.1839)"
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1276.1839)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7787"
        xml:space="preserve"><flowRegion
@@ -2417,7 +2403,7 @@
        xml:space="preserve"
        id="flowRoot7795"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1232.1839)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,-67.849903,1302.1839)"><flowRegion
          id="flowRegion7797"><rect
            id="rect7799"
            width="605.27332"
@@ -2431,9 +2417,9 @@
        width="12.5"
        height="12.5"
        x="-111.35876"
-       y="1213.3245" />
+       y="1283.3245" />
     <rect
-       y="1240.7247"
+       y="1310.7247"
        x="-111.35876"
        height="12.5"
        width="12.5"
@@ -2445,9 +2431,9 @@
        width="12.5"
        height="12.5"
        x="-111.35876"
-       y="1266.8877" />
+       y="1336.8877" />
     <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1179.1839)"
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1249.1839)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7811"
        xml:space="preserve"><flowRegion
@@ -2462,7 +2448,7 @@
        xml:space="preserve"
        id="flowRoot7819"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1206.1839)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1276.1839)"><flowRegion
          id="flowRegion7821"><rect
            id="rect7823"
            width="605.27332"
@@ -2471,7 +2457,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7825">iPhone 5</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1232.1839)"
+       transform="matrix(0.33380592,0,0,0.33380592,122.45875,1302.1839)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7827"
        xml:space="preserve"><flowRegion
@@ -2486,7 +2472,7 @@
        xml:space="preserve"
        id="flowRoot7835"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1179.1839)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1249.1839)"><flowRegion
          id="flowRegion7837"><rect
            id="rect7839"
            width="605.27332"
@@ -2495,7 +2481,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7841">iOS 6.1</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1206.1839)"
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1276.1839)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7843"
        xml:space="preserve"><flowRegion
@@ -2510,7 +2496,7 @@
        xml:space="preserve"
        id="flowRoot7851"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1232.1839)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,250.66691,1302.1839)"><flowRegion
          id="flowRegion7853"><rect
            id="rect7855"
            width="605.27332"
@@ -2519,7 +2505,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7857">iOS 6.1</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1179.1839)"
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1249.1839)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7885"
        xml:space="preserve"><flowRegion
@@ -2534,7 +2520,7 @@
        xml:space="preserve"
        id="flowRoot7893"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1206.1839)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1276.1839)"><flowRegion
          id="flowRegion7895"><rect
            id="rect7897"
            width="605.27332"
@@ -2543,7 +2529,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7899">97992b44cd6a7e15ecd4285ce136c42b2222b0e4</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1232.1839)"
+       transform="matrix(0.33380592,0,0,0.33380592,407.66691,1302.1839)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7901"
        xml:space="preserve"><flowRegion
@@ -2560,26 +2546,12 @@
        width="746.70477"
        height="18.296379"
        x="-117.37973"
-       y="1273.775" />
+       y="1343.775" />
     <flowRoot
-       transform="matrix(0.35376138,0,0,0.35376138,86.82304,782.34713)"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot7919"
-       xml:space="preserve"><flowRegion
-         id="flowRegion7921"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           y="96.362183"
-           x="-48"
-           height="57"
-           width="605.27332"
-           id="rect7923" /></flowRegion><flowPara
-         id="flowPara7925">»  <flowSpan
-   id="flowSpan7927"
-   style="font-weight:bold;-inkscape-font-specification:Open Sans Bold"> &quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7929"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.35376138,0,0,0.35376138,-108.17696,782.34713)"><flowRegion
+       transform="matrix(0.35376138,0,0,0.35376138,-105.17696,782.34713)"><flowRegion
          id="flowRegion7931"><rect
            id="rect7933"
            width="605.27332"
@@ -2596,11 +2568,11 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path7939"
-       d="m -126,890.92986 732,0"
+       d="m -126,960.92986 732,0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 136.97316,890.63697 121.39119,0"
+       d="m 136.97316,960.63697 121.39119,0"
        id="path7941"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3515,7 +3487,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path8043"
-       d="m -109,1057.9069 4.25,5.75 3.25,-15.25"
+       d="m -109,1127.9069 4.25,5.75 3.25,-15.25"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        id="g9661"
@@ -4088,32 +4060,38 @@
            x="-48"
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         id="flowPara8563">Cancel</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33380592,0,0,0.33380592,196.00131,150.41609)"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot9811"
-       xml:space="preserve"><flowRegion
-         id="flowRegion9813"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           y="96.362183"
-           x="-48"
-           height="57"
-           width="701.13739"
-           id="rect9815" /></flowRegion><flowPara
-         id="flowPara9817">- Mobile HR system for all employees</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot9819"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,196.00131,784.41609)"><flowRegion
-         id="flowRegion9821"><rect
-           id="rect9823"
-           width="701.13739"
-           height="57"
-           x="-48"
-           y="96.362183"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         id="flowPara9825">- Mobile HR system for all employees</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26239515,0,0,0.26239515,471.93679,270.23687)"
+         id="flowPara8563">Cancel</flowPara></flowRoot>    <g
+       id="g4131"
+       transform="translate(-175.09336,-17.686296)">
+      <flowRoot
+         transform="matrix(0.47070523,0,0,0.47070523,92.25362,136.4737)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot3999"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4001"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="96.362183"
+             x="-48"
+             height="57"
+             width="605.27332"
+             id="rect4003" /></flowRegion><flowPara
+           id="flowPara4005"><flowSpan
+             id="flowSpan7599"
+             style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">&quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9811"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="matrix(0.33380592,0,0,0.33380592,85.606866,173.75061)"><flowRegion
+           id="flowRegion9813"><rect
+             id="rect9815"
+             width="701.13739"
+             height="57"
+             x="-48"
+             y="96.362183"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+           id="flowPara9817">Mobile HR system for all employees</flowPara></flowRoot>    </g>
+    <flowRoot
+       transform="matrix(0.26239515,0,0,0.26239515,489.93679,110.43074)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot9827"
        xml:space="preserve"><flowRegion
@@ -4128,7 +4106,7 @@
        xml:space="preserve"
        id="flowRoot9835"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.26239515,0,0,0.26239515,504.81166,285.70743)"><flowRegion
+       transform="matrix(0.26239515,0,0,0.26239515,522.81166,125.9013)"><flowRegion
          id="flowRegion9837"><rect
            id="rect9839"
            width="605.27332"
@@ -4137,7 +4115,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara9841">iOS</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26239515,0,0,0.26239515,529.48082,285.70743)"
+       transform="matrix(0.26239515,0,0,0.26239515,547.48082,125.9013)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot9843"
        xml:space="preserve"><flowRegion
@@ -4152,7 +4130,7 @@
        xml:space="preserve"
        id="flowRoot9851"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.26239515,0,0,0.26239515,574.40187,285.70743)"><flowRegion
+       transform="matrix(0.26239515,0,0,0.26239515,592.40187,125.9013)"><flowRegion
          id="flowRegion9853"><rect
            id="rect9855"
            width="605.27332"
@@ -4163,17 +4141,17 @@
          id="flowPara9857">Web</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path9859"
-       d="m 508.46291,324.58877 -15.53456,0"
+       d="m 526.46291,164.78264 -15.53456,0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 556.11081,324.58877 -39.43248,0"
+       d="m 574.11081,164.78264 -39.43248,0"
        id="path9861"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path9863"
-       d="m 583.31848,324.58877 -20.76516,0"
+       d="m 601.31848,164.78264 -20.76516,0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <flowRoot
        transform="matrix(0.35376138,0,0,0.35376138,-705.32111,781.29078)"
@@ -4222,7 +4200,7 @@
        xml:space="preserve"
        id="flowRoot9891"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.35376138,0,0,0.35376138,-70.17696,829.77945)"><flowRegion
+       transform="matrix(0.35376138,0,0,0.35376138,-70.17696,899.77945)"><flowRegion
          id="flowRegion9893"><rect
            id="rect9895"
            width="729.20044"
@@ -4231,7 +4209,7 @@
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara9897">Variants &amp; Push Networks (2)</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.35376138,0,0,0.35376138,166.82304,829.77945)"
+       transform="matrix(0.35376138,0,0,0.35376138,166.82304,899.77945)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot9899"
        xml:space="preserve"><flowRegion
@@ -4307,7 +4285,7 @@
            id="rect5103" /></flowRegion><flowPara
          id="flowPara5105">Room for more tabs</flowPara></flowRoot>    <path
        style="opacity:0.32710284;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#DotL);marker-mid:none;marker-end:url(#Arrow2Lend)"
-       d="m -132.67776,192.55427 -66.17082,-0.24505"
+       d="m -131.67776,139.55427 -66.17082,-0.24505"
        id="path5107"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4344,5 +4322,98 @@
            x="-48"
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f57900;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         id="flowPara5309">Could be a placebo button with changes being saved live</flowPara></flowRoot>  </g>
+         id="flowPara5309">Could be a placebo button with changes being saved live</flowPara></flowRoot>    <g
+       transform="translate(-183.57864,678.10678)"
+       id="g4142">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4144"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="matrix(0.47070523,0,0,0.47070523,92.25362,136.4737)"><flowRegion
+           id="flowRegion4146"><rect
+             id="rect4148"
+             width="605.27332"
+             height="57"
+             x="-48"
+             y="96.362183"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+           id="flowPara4150"><flowSpan
+             style="font-weight:bold;-inkscape-font-specification:Open Sans Bold"
+             id="flowSpan4152">&quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.33380592,0,0,0.33380592,85.606866,173.75061)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot4154"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4156"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="96.362183"
+             x="-48"
+             height="57"
+             width="701.13739"
+             id="rect4158" /></flowRegion><flowPara
+           id="flowPara4160">Mobile HR system for all employees</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4162"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="matrix(0.26239515,0,0,0.26239515,489.93679,790.66746)"><flowRegion
+         id="flowRegion4164"><rect
+           id="rect4166"
+           width="605.27332"
+           height="57"
+           x="-48"
+           y="96.362183"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+         id="flowPara4168">Download client libraries:</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26239515,0,0,0.26239515,522.81166,806.13802)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot4170"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4172"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="96.362183"
+           x="-48"
+           height="57"
+           width="605.27332"
+           id="rect4174" /></flowRegion><flowPara
+         id="flowPara4176">iOS</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4178"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="matrix(0.26239515,0,0,0.26239515,547.48082,806.13802)"><flowRegion
+         id="flowRegion4180"><rect
+           id="rect4182"
+           width="605.27332"
+           height="57"
+           x="-48"
+           y="96.362183"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+         id="flowPara4184">Android</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26239515,0,0,0.26239515,592.40187,806.13802)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot4186"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4188"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="96.362183"
+           x="-48"
+           height="57"
+           width="605.27332"
+           id="rect4190" /></flowRegion><flowPara
+         id="flowPara4192">Web</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 526.46291,845.01936 -15.53456,0"
+       id="path4194"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4196"
+       d="m 574.11081,845.01936 -39.43248,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 601.31848,845.01936 -20.76516,0"
+       id="path4198"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
