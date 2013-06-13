@@ -90,9 +90,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="-194.0719"
-     inkscape:cy="137.76609"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="339.83829"
+     inkscape:cy="427.1518"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -111,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1759,7 +1759,7 @@
              id="rect4003" /></flowRegion><flowPara
            id="flowPara4005"><flowSpan
              id="flowSpan7599"
-             style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">&quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>      <flowRoot
+             style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">Details of &quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot9811"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -1813,7 +1813,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
            id="flowPara4150"><flowSpan
              style="font-weight:bold;-inkscape-font-specification:Open Sans Bold"
-             id="flowSpan4152">&quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>      <flowRoot
+             id="flowSpan4152">Details of &quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>      <flowRoot
          transform="matrix(0.33380592,0,0,0.33380592,85.606866,173.75061)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowRoot4154"
@@ -2791,7 +2791,7 @@
              id="rect6537" /></flowRegion><flowPara
            id="flowPara6539"><flowSpan
              id="flowSpan6541"
-             style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">&quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>      <flowRoot
+             style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">Details of &quot;HR Mobile&quot; </flowSpan></flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot6543"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
