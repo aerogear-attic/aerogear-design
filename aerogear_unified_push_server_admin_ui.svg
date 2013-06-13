@@ -90,9 +90,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="-85.043245"
-     inkscape:cy="481.12479"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="313.86106"
+     inkscape:cy="720.20644"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3827,7 +3827,7 @@
          style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999987999999995;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter6018);opacity:0.52336449" />
       <path
          style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 101.78729,555.10486 409.87863,0 0,43.25732 9.75,10.25 -9.75,10.5 0,34.83121 -409.87863,0 z"
+         d="m 71.78729,555.10486 439.87863,0 0,43.25732 9.75,10.25 -9.75,10.5 0,34.83121 -439.87863,0 z"
          id="path5496"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccc" />
@@ -3835,7 +3835,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path5560"
-         d="m 101.78729,555.10486 409.87863,0 0,33.08117 -409.87863,0 z"
+         d="m 71.78729,555.10486 439.87863,0 0,33.08117 -439.87863,0 z"
          style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999982;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <flowRoot
          xml:space="preserve"
@@ -3850,7 +3850,7 @@
              y="96.362183"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
            id="flowPara5504">Secret:</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.35376138,0,0,0.35376138,164.66615,566.58097)"
+         transform="matrix(0.35376138,0,0,0.35376138,113.66615,566.58097)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowRoot5506"
          xml:space="preserve"><flowRegion
@@ -3861,7 +3861,7 @@
              height="57"
              width="605.27332"
              id="rect5510" /></flowRegion><flowPara
-           id="flowPara5512">ID:</flowPara></flowRoot>      <flowRoot
+           id="flowPara5512">Variant ID:</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.35376138,0,0,0.35376138,192.66615,586.58097)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowRoot5514"
@@ -3940,7 +3940,7 @@
          xml:space="preserve"
          id="flowRoot5562"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-         transform="matrix(0.35376138,0,0,0.35376138,138.66615,529.58097)"><flowRegion
+         transform="matrix(0.35376138,0,0,0.35376138,113.66615,529.58097)"><flowRegion
            id="flowRegion5564"><rect
              id="rect5566"
              width="605.27332"
