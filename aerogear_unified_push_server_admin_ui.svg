@@ -90,9 +90,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="313.86106"
-     inkscape:cy="720.20644"
+     inkscape:zoom="0.5"
+     inkscape:cx="232.24215"
+     inkscape:cy="379.23699"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -111,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -471,7 +471,7 @@
        xml:space="preserve"
        id="flowRoot3819"
        style="font-size:47.93204498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       transform="matrix(0.33380592,0,0,0.33380592,-912.06311,116.7608)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,-912.06311,105.7608)"><flowRegion
          id="flowRegion3821"><rect
            id="rect3823"
            width="605.27332"
@@ -660,18 +660,6 @@
            width="701.13739"
            id="rect4253" /></flowRegion><flowPara
          id="flowPara4255">Description</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4281"
-       style="font-size:52.45640564px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.22876138,0,0,0.22876138,-917.27202,151.23445)"><flowRegion
-         id="flowRegion4283"><rect
-           id="rect4285"
-           width="2213.9365"
-           height="87.599571"
-           x="-48"
-           y="96.362183"
-           style="font-size:52.45640564px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         id="flowPara4287">Mobile applications that may access the Unified Push Server.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4289"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4069,7 +4057,7 @@
     </g>
     <path
        style="opacity:0.32710284;fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#DotL);marker-mid:none;marker-end:url(#Arrow2Lend)"
-       d="m 1081.8539,474.25798 c -4.3046,254.42355 -553.58461,131.2116 -553.58461,131.2116"
+       d="m 1081.8539,474.25798 c 107.6954,212.42355 -503.58461,183.2116 -503.58461,183.2116"
        id="path5600"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4487,5 +4475,30 @@
        id="path6228"
        d="m 1052.7313,947.63697 164.6238,0"
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4178"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="matrix(0.33380592,0,0,0.33380592,-914.27631,186.41975)"><flowRegion
+         id="flowRegion4180"><rect
+           id="rect4182"
+           width="1325.501"
+           height="1344.9368"
+           x="-48"
+           y="96.362183"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+         id="flowPara4196">Please start by adding a push application and a push network.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.33380592,0,0,0.33380592,-914.37681,132.26542)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot4198"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4200"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="96.362183"
+           x="-48"
+           height="1344.9368"
+           width="1325.501"
+           id="rect4202" /></flowRegion><flowPara
+         id="flowPara4204">The AeroGear Unified Push Server sends push notifications to any of your mobile applications using different push networks.</flowPara><flowPara
+         id="flowPara4208" /></flowRoot>  </g>
 </svg>
