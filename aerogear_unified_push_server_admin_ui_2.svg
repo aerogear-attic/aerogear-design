@@ -66,9 +66,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="321.36244"
-     inkscape:cy="484.91808"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="628.29103"
+     inkscape:cy="402.07427"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2751,20 +2751,7 @@
              width="992.79974"
              id="rect5570" /></flowRegion><flowPara
            id="flowPara5572">http://simple.push/url</flowPara></flowRoot>    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6596"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,-1287.3768,-73.73458)"><flowRegion
-         id="flowRegion6598"><rect
-           id="rect6600"
-           width="1325.501"
-           height="1344.9368"
-           x="-48"
-           y="96.362183"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         id="flowPara6602">The AeroGear Unified Push Server sends push notifications to any of your mobile applications using different push networks.</flowPara><flowPara
-         id="flowPara6604">t</flowPara></flowRoot>    <path
+    <path
        style="opacity:0.36915917;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -11.546383,1157.3492 558.453003,0"
        id="path6608"
@@ -4815,5 +4802,18 @@
            height="57"
            width="701.13739"
            id="rect6956" /></flowRegion><flowPara
-         id="flowPara6958">1</flowPara></flowRoot>  </g>
+         id="flowPara6958">1</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6927-2"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f57900;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+       transform="matrix(0.97424894,0,0,0.97424894,27.894789,327.47666)"
+       inkscape:transform-center-x="14.142136"><flowRegion
+         id="flowRegion6929-5"><rect
+           id="rect6931-5"
+           width="701.13739"
+           height="57"
+           x="-48"
+           y="96.362183"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#f57900;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
+         id="flowPara6933-9">TODO</flowPara></flowRoot>  </g>
 </svg>
