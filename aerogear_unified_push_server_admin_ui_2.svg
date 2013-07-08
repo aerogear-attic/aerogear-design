@@ -54,9 +54,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="433.33752"
-     inkscape:cy="1106.3062"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="386.82395"
+     inkscape:cy="1121.5598"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5768,7 +5768,7 @@
        xml:space="preserve"
        id="flowRoot5613"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,193.17953,-354.1366)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,603.17953,-354.1366)"><flowRegion
          id="flowRegion5615"><rect
            id="rect5617"
            width="701.13739"
@@ -5799,16 +5799,10 @@
            id="rect5643" /></flowRegion><flowPara
          id="flowPara5645">Revoke Access</flowPara></flowRoot>    <path
        style="opacity:0.2;fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 160.86302,-326.72346 0,445.0986"
+       d="m 570.86302,-326.72346 0,445.0986"
        id="path5647"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path5681"
-       d="m 446.86302,-326.72346 0,445.0986"
-       style="opacity:0.2;fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <flowRoot
        transform="matrix(0.33380592,0,0,0.33380592,12.17953,-318.1366)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -5865,7 +5859,7 @@
        xml:space="preserve"
        id="flowRoot5728"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,191.17953,-318.1366)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,601.17953,-318.1366)"><flowRegion
          id="flowRegion5730"><rect
            id="rect5732"
            width="605.27332"
