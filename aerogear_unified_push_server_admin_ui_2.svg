@@ -54,9 +54,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="386.82395"
-     inkscape:cy="1121.5598"
+     inkscape:zoom="0.5"
+     inkscape:cx="348.45687"
+     inkscape:cy="1148.7542"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5888,5 +5888,17 @@
            x="-48"
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         id="flowPara5744">Reset Password</flowPara></flowRoot>  </g>
+         id="flowPara5744">Reset Password</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5746"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="matrix(0.33380592,0,0,0.33380592,160.06892,-318.1366)"><flowRegion
+         id="flowRegion5748"><rect
+           id="rect5750"
+           width="605.27332"
+           height="57"
+           x="-48"
+           y="96.362183"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+         id="flowPara5752">(you)</flowPara></flowRoot>  </g>
 </svg>
