@@ -55,15 +55,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="304.2831"
-     inkscape:cy="-533.47015"
+     inkscape:cx="1071.8387"
+     inkscape:cy="771.51005"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1562"
      inkscape:window-height="867"
-     inkscape:window-x="41"
-     inkscape:window-y="35"
+     inkscape:window-x="79"
+     inkscape:window-y="77"
      inkscape:window-maximized="0"
      showborder="false"
      inkscape:showpageshadow="false"
@@ -5480,7 +5480,7 @@
        xml:space="preserve"
        id="flowRoot4620"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="matrix(0.33380592,0,0,0.33380592,975.4083,46.054202)"><flowRegion
+       transform="matrix(0.33380592,0,0,0.33380592,985.4083,56.054202)"><flowRegion
          id="flowRegion4622"><rect
            id="rect4624"
            width="1267.3347"
@@ -5488,10 +5488,12 @@
            x="-48"
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
-         id="flowPara4626"
-         style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">- SalesTask (iPad Demo)</flowPara><flowPara
          style="font-weight:bold;-inkscape-font-specification:Open Sans Bold"
-         id="flowPara4628">- Pacman (Full)</flowPara></flowRoot>    <g
+         id="flowPara4628"><flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Open Sans"
+   id="flowSpan6126">Application:</flowSpan> SalesTask   <flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Open Sans"
+   id="flowSpan6124">Variant:</flowSpan> iPad Demo</flowPara></flowRoot>    <g
        transform="translate(1611.8711,-11.881944)"
        id="g4445-8">
       <flowRoot
