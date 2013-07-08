@@ -54,9 +54,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="511.40536"
-     inkscape:cy="-357.24226"
+     inkscape:zoom="0.5"
+     inkscape:cx="1002.8203"
+     inkscape:cy="966.67291"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5588,13 +5588,13 @@
        transform="matrix(0.33380592,0,0,0.33380592,965.4083,-3.945798)"><flowRegion
          id="flowRegion5770-1"><rect
            id="rect5772-7"
-           width="1201.4281"
-           height="194.80463"
+           width="1186.4493"
+           height="191.80887"
            x="-48"
            y="96.362183"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara5774-1"
-         style="font-weight:normal;-inkscape-font-specification:Open Sans">This Push Network <flowSpan
+         style="font-weight:normal;-inkscape-font-specification:Open Sans">The iOS Push Network <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Open Sans Bold"
    id="flowSpan4630">&quot;88:8d:63:f1:80:9f:8e:b2:46:ec:52:4a&quot;</flowSpan> is currently being used by:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
