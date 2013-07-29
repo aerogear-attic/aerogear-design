@@ -54,16 +54,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1049.7878"
-     inkscape:cy="-224.85326"
+     inkscape:zoom="0.25"
+     inkscape:cx="823.97205"
+     inkscape:cy="-128.31588"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1562"
      inkscape:window-height="867"
-     inkscape:window-x="43"
-     inkscape:window-y="41"
+     inkscape:window-x="242"
+     inkscape:window-y="101"
      inkscape:window-maximized="0"
      showborder="false"
      inkscape:showpageshadow="false"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4404,5 +4404,197 @@
        id="path4619"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <flowRoot
+       transform="matrix(0.33380592,0,0,0.33380592,1329.5668,1878.6663)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot4906"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4908"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="96.362183"
+           x="-48"
+           height="57"
+           width="605.27332"
+           id="rect4910" /></flowRegion><flowPara
+         id="flowPara4912">crobson@redhat.com</flowPara></flowRoot>    <rect
+       y="1909.9763"
+       x="932.31555"
+       height="164.9075"
+       width="539.89294"
+       id="rect4914"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4916"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="matrix(0.33380592,0,0,0.33380592,984.3688,1900.2851)"><flowRegion
+         id="flowRegion4918"><rect
+           id="rect4920"
+           width="605.27332"
+           height="57"
+           x="-48"
+           y="96.362183"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+         id="flowPara4922"
+         style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">Delete Variant</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1436.8114,1936.7354 -12.2686,12.2687"
+       id="path4924"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4926"
+       d="m 1424.5428,1936.7354 12.2686,12.2687"
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="2028.7632"
+       x="1312.6011"
+       height="27.440062"
+       width="130.02097"
+       id="rect4928"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="4.2426405"
+       ry="4.2426405" />
+    <flowRoot
+       transform="matrix(0.33380592,0,0,0.33380592,1353.1637,2001.755)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot4930"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4932"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="96.362183"
+           x="-48"
+           height="57"
+           width="605.27332"
+           id="rect4934" /></flowRegion><flowPara
+         id="flowPara4936">Delete Variant</flowPara></flowRoot>    <rect
+       ry="4.2426405"
+       rx="4.2426405"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999982;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4938"
+       width="74.468964"
+       height="27.440062"
+       x="1231.1324"
+       y="2028.5369" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4940"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="matrix(0.33380592,0,0,0.33380592,1263.6492,2001.5286)"><flowRegion
+         id="flowRegion4942"><rect
+           id="rect4944"
+           width="605.27332"
+           height="57"
+           x="-48"
+           y="96.362183"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+         id="flowPara4946">Cancel</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1424.5428,1936.7354 12.2686,12.2687"
+       id="path4948"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       transform="matrix(0.33380592,0,0,0.33380592,984.3688,1939.2851)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot4950"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4952"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="96.362183"
+           x="-48"
+           height="209.78339"
+           width="1267.3347"
+           id="rect4954" /></flowRegion><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Open Sans"
+         id="flowPara4956">Do you want to delete the <flowSpan
+   id="flowSpan4958"
+   style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">&quot;HR Mobile&quot;</flowSpan> variant <flowSpan
+   id="flowSpan4960"
+   style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">&quot;Demo&quot;?</flowSpan></flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="TODO"
+     style="display:none">
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#73d216;stroke-width:9.19135571;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4109"
+       sodipodi:cx="315.36963"
+       sodipodi:cy="1591.1775"
+       sodipodi:rx="57.982758"
+       sodipodi:ry="57.982758"
+       d="m 373.35239,1591.1775 a 57.982758,57.982758 0 1 1 -115.96552,0 57.982758,57.982758 0 1 1 115.96552,0 z"
+       transform="matrix(0.31707319,0,0,1.1707317,24.455518,-331.06163)" />
+    <path
+       transform="matrix(0.31707319,0,0,1.1707317,424.678,-325.40478)"
+       d="m 373.35239,1591.1775 a 57.982758,57.982758 0 1 1 -115.96552,0 57.982758,57.982758 0 1 1 115.96552,0 z"
+       sodipodi:ry="57.982758"
+       sodipodi:rx="57.982758"
+       sodipodi:cy="1591.1775"
+       sodipodi:cx="315.36963"
+       id="path4891"
+       style="color:#000000;fill:none;stroke:#73d216;stroke-width:9.19135571;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#73d216;stroke-width:9.19135571;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4893"
+       sodipodi:cx="315.36963"
+       sodipodi:cy="1591.1775"
+       sodipodi:rx="57.982758"
+       sodipodi:ry="57.982758"
+       d="m 373.35239,1591.1775 a 57.982758,57.982758 0 1 1 -115.96552,0 57.982758,57.982758 0 1 1 115.96552,0 z"
+       transform="matrix(0.31707319,0,0,1.1707317,1317.0467,-329.64742)" />
+    <path
+       transform="matrix(2.3536585,0,0,1.1707317,842.3539,-356.51748)"
+       d="m 373.35239,1591.1775 a 57.982758,57.982758 0 1 1 -115.96552,0 57.982758,57.982758 0 1 1 115.96552,0 z"
+       sodipodi:ry="57.982758"
+       sodipodi:rx="57.982758"
+       sodipodi:cy="1591.1775"
+       sodipodi:cx="315.36963"
+       id="path4895"
+       style="color:#000000;fill:none;stroke:#73d216;stroke-width:3.37355351;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#73d216;stroke-width:13.09330559;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4897"
+       sodipodi:cx="315.36963"
+       sodipodi:cy="1591.1775"
+       sodipodi:rx="57.982758"
+       sodipodi:ry="57.982758"
+       d="m 373.35239,1591.1775 a 57.982758,57.982758 0 1 1 -115.96552,0 57.982758,57.982758 0 1 1 115.96552,0 z"
+       transform="matrix(0.50000001,0,0,0.36585367,199.40407,648.41468)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#73d216;stroke-width:3.02603388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4899"
+       sodipodi:cx="315.36963"
+       sodipodi:cy="1591.1775"
+       sodipodi:rx="57.982758"
+       sodipodi:ry="57.982758"
+       d="m 373.35239,1591.1775 a 57.982758,57.982758 0 1 1 -115.96552,0 57.982758,57.982758 0 1 1 115.96552,0 z"
+       transform="matrix(3.6951219,0,0,0.92682927,-1109.4678,-1512.7466)" />
+    <path
+       transform="matrix(12.02439,0,0,3.8780487,-3810.5121,-4323.5139)"
+       d="m 373.35239,1591.1775 a 57.982758,57.982758 0 1 1 -115.96552,0 57.982758,57.982758 0 1 1 115.96552,0 z"
+       sodipodi:ry="57.982758"
+       sodipodi:rx="57.982758"
+       sodipodi:cy="1591.1775"
+       sodipodi:cx="315.36963"
+       id="path4901"
+       style="color:#000000;fill:none;stroke:#73d216;stroke-width:0.820068;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#73d216;stroke-width:0.57833022;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4899-7"
+       sodipodi:cx="315.36963"
+       sodipodi:cy="1591.1775"
+       sodipodi:rx="57.982758"
+       sodipodi:ry="57.982758"
+       d="m 373.35239,1591.1775 a 57.982758,57.982758 0 1 1 -115.96552,0 57.982758,57.982758 0 1 1 115.96552,0 z"
+       transform="matrix(6.9390242,0,0,13.512195,-215.52961,-21290.809)" />
   </g>
 </svg>
