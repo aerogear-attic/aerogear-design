@@ -1,0 +1,4 @@
+Core          #E17408
+Push          #C652BB
+Security      #6CC319
+Sync          #3F95F1
