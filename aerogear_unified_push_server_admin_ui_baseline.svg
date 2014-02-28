@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
@@ -20,6 +21,18 @@
    inkscape:export-ydpi="90">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8191">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8193" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop8195" />
+    </linearGradient>
     <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
@@ -46,6 +59,17 @@
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;marker-end:none"
          transform="scale(0.8) translate(7.4, 1)" />
     </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8191"
+       id="radialGradient8199"
+       cx="-1363.0001"
+       cy="3449.6133"
+       fx="-1363.0001"
+       fy="3449.6133"
+       r="270.44647"
+       gradientTransform="matrix(1.8249485,0,0,0.35147484,1124.4048,2176.092)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,8 +79,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7071068"
-     inkscape:cx="-1492.8289"
-     inkscape:cy="-1963.9247"
+     inkscape:cx="-1499.4811"
+     inkscape:cy="-2042.0316"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -11403,7 +11427,69 @@
            width="605.27332"
            id="rect6784-8-2" /></flowRegion><flowPara
          style="font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;-inkscape-font-specification:Open Sans"
-         id="flowPara6786-8-6">iPad</flowPara></flowRoot>  </g>
+         id="flowPara6786-8-6">iPad</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8173"
+       style="font-size:33.92116928px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="matrix(0.35376138,0,0,0.35376138,-1710.2652,3274.4116)"><flowRegion
+         id="flowRegion8175"><rect
+           id="rect8177"
+           width="1236.6562"
+           height="66.408669"
+           x="-48"
+           y="96.362183"
+           style="font-size:33.92116928px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+         style="font-weight:bold;-inkscape-font-specification:Open Sans Bold"
+         id="flowPara8179">There are no installations that meet these requirements.</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:url(#radialGradient8199);stroke-width:0.99999994000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8181"
+       width="539.89294"
+       height="189.66487"
+       x="-1895.9465"
+       y="3196.6165" />
+    <rect
+       ry="4.2242703"
+       rx="5.3337793"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.11881208000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.51401869"
+       id="rect8201"
+       width="137.68033"
+       height="27.321249"
+       x="-1522.4357"
+       y="3340.2202" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8203"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans;opacity:0.51401869"
+       transform="matrix(0.33380592,0,0,0.33380592,-1489.6482,3313.1529)"><flowRegion
+         id="flowRegion8205"><rect
+           id="rect8207"
+           width="605.27332"
+           height="57"
+           x="-48"
+           y="96.362183"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+         id="flowPara8209">Send Notification</flowPara></flowRoot>    <rect
+       y="3340.0247"
+       x="-1635.5895"
+       height="27.260536"
+       width="104.28944"
+       id="rect8211"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.07999992;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="5.9415703"
+       ry="4.2148833" />
+    <flowRoot
+       transform="matrix(0.33380592,0,0,0.33380592,-1590.1626,3312.9265)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot8213"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8215"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="96.362183"
+           x="-48"
+           height="57"
+           width="605.27332"
+           id="rect8217" /></flowRegion><flowPara
+         id="flowPara8219">Cancel</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
